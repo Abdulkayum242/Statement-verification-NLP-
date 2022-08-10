@@ -4,7 +4,7 @@
 
 Asymmetric type of semantic search where for a given query from customer we have to find whether the query had been told while conversation or not .
 
-**Approach :
+**Approach** :
 
 Step 1 : Reading and sentence tokenize
 Step 2 : Finding embedding of each sentences and the queries that we have received 
